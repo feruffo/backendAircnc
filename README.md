@@ -1,2 +1,2 @@
 # backendAircnc
-Projeto feito em Node.js para estudo, baseado no serviço online Airbnb.
+Projeto desenvolvido em Node.js para estudo, baseado no serviço online Airbnb.
